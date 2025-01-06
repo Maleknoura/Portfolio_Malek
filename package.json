@@ -1,5 +1,5 @@
 {
-  "name": "douaesb_portfolio",
+  "name": "Portfolio_Malek",
   "homepage": "https://Douaesb.github.io/",
   "version": "0.1.0",
   "private": true,
@@ -7,8 +7,10 @@
     "@testing-library/jest-dom": "^5.16.2",
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
+    "douaesb_portfolio": "file:",
     "framer-motion": "^6.2.8",
     "hamburger-react": "^2.4.1",
+    "Portfolio_Malek": "file:",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
     "react-scripts": "5.0.0",
